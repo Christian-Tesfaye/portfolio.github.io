@@ -1,0 +1,119 @@
+#home{
+  height:100vh;
+  width:100%;
+  background-image:url(back.jpg);
+  background-size:cover;
+  background-position: center;
+}
+ .nav-link{
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: 15px;
+}
+.nav-item a:hover{
+color:#5cb85c;
+
+}
+
+#namee{
+  color:white;
+}
+
+.row h1{
+  padding-top:50px;
+  padding-bottom: 0px;
+  margin: 100px;
+  color:white;
+}
+.row h1 strong{
+  color:#eb0808;
+}
+
+.row button{
+  margin:130px;
+  margin-top: -50px;
+  margin-right:-50px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color:white;
+  
+}
+.row button a{
+  text-decoration: none;
+  color:white;
+}
+
+
+
+#aboutt{
+  height:100vh;
+  width:100%;
+  background-image:url(gre.jfif);
+  background-size:cover;
+  background-position: center;
+  
+ }
+ #about h1{
+  font-family:Arial, Helvetica, sans-serif;
+  margin-bottom:50px;
+  color:#eb0808;
+
+}
+#about pre{
+  color:white;
+
+}
+#pic{
+  margin-top:70px;
+}
+
+#car{
+  background-size: cover;
+}
+#skill{
+  height:100vh;
+  width:100%;
+  background-image:url(grey.jfif);
+  background-size:cover;
+  background-position: center;
+}
+#skill h1{
+  font-family:Arial, Helvetica, sans-serif;
+  padding-top: 30px;
+  margin-left: 100px;
+  margin-bottom: 10px;
+  color:#eb0808;
+
+}
+
+
+#skill .card{
+ 
+ border-color: #eb0808;
+ color:wheat;
+ border-width: 3px;
+}
+
+#skill .card-body h3{
+ color:#eb0808;
+ }
+
+ .card{
+  background-color: rgb(58, 55, 55);
+ }
+
+footer a{
+text-decoration: none;
+color:black;
+}
+#picture{
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+    float:right; 
+}
+
+#a {
+text-align: right;
+}
